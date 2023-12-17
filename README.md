@@ -27,7 +27,7 @@
 <div align="center">
   <div>
     <h3><b>✉️ Contacto </b></h3> <br>
-    <a href="www.linkedin.com/in/josé-teixeiramt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/josé-teixeiramt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 </div>
 
